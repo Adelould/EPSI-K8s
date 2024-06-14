@@ -1,0 +1,6 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: mon-namespace
+  labels:
+    mon_label: Etudiant
